@@ -147,3 +147,5 @@ webapck-merge 合并。
 5. 由于typescript统一由@types进行管理，所以引入第三方插件时，记住要先引入声明，比如
 比如： 引入路由插件react-router-dom
 npm i react-router-dom    还需    npm i @types/react-router-dom
+
+6. just test......
